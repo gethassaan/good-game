@@ -1,0 +1,1 @@
+export const ERROR_MESSAGE = "Target Number should be greater than 2.";
