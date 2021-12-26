@@ -1,7 +1,7 @@
 {
   "name": "good-game-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "A little challange by Good Game for fun.",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.ts",

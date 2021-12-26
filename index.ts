@@ -1,5 +1,5 @@
-import { ERROR_MESSAGE } from "./index-constants";
-import { SplitCurrentNumberIntoWarriorsInterface } from "./index-interface";
+import { ERROR_MESSAGE } from "./constants/index-constants";
+import { SplitCurrentNumberIntoWarriorsInterface } from "./interfaces/index-interface";
 
 /**
  * ********** Instructions for Generate Random Number **********
